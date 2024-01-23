@@ -1,1 +1,96 @@
 # FINAl_machaidze
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workplace Stress and Mental Health</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url('images.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            color: #333;
+        }
+
+        footer {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .flourish-embed {
+            margin: 20px auto;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mental Health and Work: Understanding the Links</h1>
+    </header>
+
+    <main>
+        <p>Workplace stress has become a pervasive issue affecting a significant number of individuals in today's professional landscape. The demands of modern work environments, combined with personal and societal pressures, contribute to a growing concern for mental health and well-being...</p>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/16547548"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+        <p>Studies and surveys consistently reveal a disturbingly high prevalence of workplace stress across various industries and job roles. The impact of stress on mental health is profound, leading to a range of issues such as anxiety, depression, and burnout...</p>
+        <div class="flourish-embed flourish-radar" data-src="visualisation/16547637"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+        <p>One critical aspect influencing the mental health of employees is the availability of healthcare benefits in the workplace. Access to mental health resources, counseling services, and medical coverage can make a significant difference in how individuals cope with stress. Unfortunately, a considerable number of workers find themselves in situations where such healthcare benefits are not provided by their employers...</p>
+        <div class="flourish-embed flourish-scatter" data-src="visualisation/16547760"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+        <p>Research consistently highlights the correlation between having healthcare benefits at work and improved mental health outcomes. Employees with access to healthcare resources are more likely to seek help when needed, reducing the negative impact of stress on their mental well-being. In contrast, those without such benefits may face barriers to obtaining the support they require, potentially exacerbating their stress levels...</p>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/15573318"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+        <p>For many individuals, the absence of healthcare benefits at work can become a deciding factor in whether to continue their employment. The strain of managing stress without access to professional support can lead to feelings of hopelessness and frustration. Ultimately, some employees may feel compelled to leave their positions in search of a healthier work environment that prioritizes mental health...</p>
+
+        <p>Workplace stress affects individuals across different demographics, as demonstrated in our dataset. Examples include a 31-year-old male from the United Kingdom actively seeking treatment despite facing frequent work interference. Another case involves a 23-year-old male experiencing work interference without seeking treatment, highlighting the complex interplay of individual experiences with stress...</p>
+
+        <p>Comments from participants in the dataset emphasize the need for better healthcare coverage and support at work. These remarks underscore the importance of tailoring healthcare benefits to address mental health concerns, potentially preventing employees from leaving due to stress...</p>
+
+        <img src="stressful.png" alt="Your Image Description">
+
+        <p>Employers and organizations must recognize the critical role they play in promoting the mental well-being of their workforce. Offering comprehensive healthcare benefits, including mental health resources, can contribute to a positive workplace culture and improve employee satisfaction. By addressing these issues proactively, organizations can create a supportive environment, potentially preventing the negative consequences of workplace stress...</p>
+    </main>
+
+    <footer>
+        &copy; 2024 
+    </footer>
+
+</body>
+
+</html>
+
